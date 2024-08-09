@@ -1,5 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amankumarconnect&theme=transparent)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amankumarconnect&theme=transparent)](https://git.io/streak-stats)
 
 <!--
 **amankumarconnect/amankumarconnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
