@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amankumarconnect&theme=transparent)](https://git.io/streak-stats)
 
