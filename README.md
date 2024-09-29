@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=amankumarconnect)
-<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amankumarconnect&theme=transparent&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
 <!--
