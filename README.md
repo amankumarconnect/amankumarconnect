@@ -7,4 +7,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Contribution Stats
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=amankumarconnect)](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=amankumarconnect)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=amankumarconnect)](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Aamankumarconnect+-user%3Aamankumarconnect)
